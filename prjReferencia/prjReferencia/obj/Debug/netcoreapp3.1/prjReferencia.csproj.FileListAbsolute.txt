@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\bin\Debug\netcoreapp3.1\prjReferencia.exe
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\bin\Debug\netcoreapp3.1\prjReferencia.deps.json
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\bin\Debug\netcoreapp3.1\prjReferencia.runtimeconfig.json
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\bin\Debug\netcoreapp3.1\prjReferencia.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\bin\Debug\netcoreapp3.1\prjReferencia.dll
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\bin\Debug\netcoreapp3.1\prjReferencia.pdb
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\obj\Debug\netcoreapp3.1\prjReferencia.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\obj\Debug\netcoreapp3.1\prjReferencia.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\obj\Debug\netcoreapp3.1\prjReferencia.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\obj\Debug\netcoreapp3.1\prjReferencia.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\obj\Debug\netcoreapp3.1\prjReferencia.dll
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\obj\Debug\netcoreapp3.1\prjReferencia.pdb
+C:\Users\Matheus\Desktop\C#\prjReferencia\prjReferencia\obj\Debug\netcoreapp3.1\prjReferencia.genruntimeconfig.cache
